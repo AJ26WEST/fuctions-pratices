@@ -1,2 +1,2 @@
 # fuctions-pratices
-program c fuctions 
+program  fuctions 
